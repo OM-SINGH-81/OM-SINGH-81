@@ -1,35 +1,47 @@
-👋 Hi there, I'm OM SINGH!
+# 👋 Hi, I'm OM SINGH
 
-🎓 B.Tech Computer Science Engineering Student**  
-🚀 Aspiring Full Stack Developer | AI Enthusiast**
+🎓 **B.Tech CSE Student**  
+🚀 **Aspiring Full Stack Developer | AI Enthusiast**
 
- 💻 About Me
+---
 
-I'm a passionate Computer Science student who loves building end-to-end web applications and exploring the possibilities at the intersection of Full Stack Development and Artificial Intelligence.  
-Currently sharpening my skills in Data Structures & Algorithms to solve real-world problems efficiently.
+## 💻 About Me
 
+I'm a passionate Computer Science student who enjoys building full-stack web apps and exploring AI integrations.  
+Currently leveling up my **DSA** skills to solve real-world problems with efficient solutions.
 
+---
 
-🌟 What I’m Working On
+## 🌟 What I’m Working On
 
-- Developing exciting full stack projects with AI integration
-- Mastering Data Structures and Algorithms
-- Constantly learning and pushing the boundaries in tech
+- ⚙️ Building Full Stack Projects with AI Features  
+- 📚 Mastering Data Structures & Algorithms  
+- 🚀 Exploring new tech & development stacks  
 
+---
 
- 🏏🧑‍💻💪 Hobbies & Passions
+## 🏏 Hobbies & Passions
 
-When I'm not coding, you'll find me:
-- Smashing boundaries on the cricket field 🏏
-- Leveling up my fitness game 💪
-- Tackling algorithmic challenges and hackathons 👨‍💻
+- 🏏 Cricket Lover  
+- 💪 Fitness Enthusiast  
+- 👨‍💻 Hackathon Participant & Coding Challenges Solver  
 
-
+---
 > **"Code. Learn. Repeat."**
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=om-singh-81&label=Profile%20views&color=0e75b6&style=flat" alt="om-singh-81" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-singh-81" alt="om-singh-81" /></a> </p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om_singh.7.4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-singh-50114a326) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OmSingh_X) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:om.ajit.singh81@gmail.com) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/omsingh_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omsingh_x" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/om-singh-50114a326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-singh-50114a326" height="30" width="40" /></a>
+<a href="https://instagram.com/om_singh.7.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om_singh.7.4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/om_ajit_singh81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="om_ajit_singh81" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/om-singh8-81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="om-singh8-81" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
