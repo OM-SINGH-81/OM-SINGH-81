@@ -1,32 +1,39 @@
-# 👋 Hi, I'm OM SINGH
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-🎓 **B.Tech CSE Student**  
-🚀 **Aspiring Full Stack Developer | AI Enthusiast**
+# 👋 **Hi, I'm OM SINGH**
 
----
-
-## 💻 About Me
-
-I'm a passionate Computer Science student who enjoys building full-stack web apps and exploring AI integrations.  
-Currently leveling up my **DSA** skills to solve real-world problems with efficient solutions.
+🎓 **B.Tech in Computer Science Engineering**  
+🚀 **Aspiring Full Stack Developer | AI Enthusiast | DevOps**
 
 ---
 
-## 🌟 What I’m Working On
+## 💻 **About Me**
 
-- ⚙️ Building Full Stack Projects with AI Features  
-- 📚 Mastering Data Structures & Algorithms  
-- 🚀 Exploring new tech & development stacks  
+I'm a **passionate CS student** who loves crafting **end-to-end web apps** and exploring the magic where **Full Stack Development meets AI**.  
+Currently sharpening my **Data Structures & Algorithms** skills to solve real-world problems efficiently.
+
+---
+
+## 🌟 **What I’m Working On**
+
+- ⚙️ **Full Stack Projects with AI Integration**  
+- 📚 **Mastering DSA**  
+- 🚀 **Exploring New Tech Stacks**
 
 ---
 
-## 🏏 Hobbies & Passions
+## 🏏 **Hobbies & Passions**
 
-- 🏏 Cricket Lover  
-- 💪 Fitness Enthusiast  
-- 👨‍💻 Hackathon Participant & Coding Challenges Solver  
+When I'm not coding, you'll find me:
+- Smashing boundaries and wickets on the cricket field 🏏
+- Leveling up my fitness game 💪
+- Tackling algorithmic challenges and hackathons 👨‍💻
+
 
 ---
+
 > **"Code. Learn. Repeat."**
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om-singh-81&label=Profile%20views&color=0e75b6&style=flat" alt="om-singh-81" /> </p>
