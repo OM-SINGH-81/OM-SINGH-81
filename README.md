@@ -50,7 +50,9 @@ with sharpening **Data Structures & Algorithms** skills to solve real-world prob
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=OM-SINGH-81&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=OM-SINGH-81&theme=dark&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM-SINGH-81&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OM-SINGH-81&layout=compact&theme=dark)
+
 </div>
 
 ### 🔝 Top Contributed Repo
