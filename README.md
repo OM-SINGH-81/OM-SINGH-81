@@ -64,18 +64,18 @@ with sharpening **Data Structures & Algorithms** skills to solve real-world prob
 </p>
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-singh-81" alt="om-singh-81" /></a> </p>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=OM-SINGH-81)](https://github.com/ryo-ma/github-profile-trophy) </a>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=om-singh-81&label=Profile%20views&color=0e75b6&style=flat" alt="om-singh-81" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=om-singh-81&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=OM-SINGH-81&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+   <img src="https://github-readme-stats.vercel.app/api?username=OM-SINGH-81&theme=dark&hide_border=false&include_all_commits=true&count_private=false&cachebust=YOUR_TIMESTAMP_HERE" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=OM-SINGH-81&theme=dark&hide_border=false" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OM-SINGH-81&layout=compact&theme=dark)
