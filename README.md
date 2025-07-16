@@ -64,35 +64,61 @@ with sharpening **Data Structures & Algorithms** skills to solve real-world prob
 </p>
 
 ---
- [![trophy](https://github-profile-trophy.vercel.app/?username=OM-SINGH-81)](https://github.com/ryo-ma/github-profile-trophy) </a>
+
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OM-SINGH-81&theme=algolia&margin-w=15&margin-h=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=om-singh-81&label=Profile%20views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=OM-SINGH-81&label=Profile%20Views&color=007cf0&style=circle" style="border-radius: 50%; box-shadow: 0 0 12px #007cf0;" />
 
 ---
 
 
 # 📊 GitHub Stats:
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=OM-SINGH-81&theme=dark&hide_border=false&include_all_commits=true&count_private=false&cachebust=YOUR_TIMESTAMP_HERE" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=OM-SINGH-81&theme=dark&hide_border=false" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OM-SINGH-81&layout=compact&theme=dark)
+  <!-- GitHub Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OM-SINGH-81&theme=github_dark" />
+
+  <br/><br/>
+
+  <!-- GitHub Stats and Streak -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=OM-SINGH-81&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=OM-SINGH-81&theme=chartreuse-dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Languages and Productivity -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OM-SINGH-81&layout=compact&theme=chartreuse-dark&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OM-SINGH-81&theme=github_dark" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
-### 🔝 Top Contributed Repo
-<p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=OM-SINGH-81&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+  ---  
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=OM-SINGH-81&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
